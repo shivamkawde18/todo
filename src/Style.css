@@ -1,0 +1,71 @@
+.mainDiv{
+    height: 100rem;
+    
+    background: radial-gradient(black, transparent);
+}
+.para{
+
+
+
+    height: auto;
+    width: 12rem;
+    overflow-wrap: break-word;
+
+
+    position: relative;
+    left: 37rem;
+    bottom: 2rem;
+
+}
+.input{
+    height: 2rem;
+    width: 2rem;
+    position: relative;
+    right: 9rem;
+}
+/* .content{
+    position: absolute;
+    left: 22rem;
+    background: aqua;
+} */
+
+.mainBtn{
+    height: 3rem;
+}
+
+.smallInput{
+    height: 2.5rem;
+        width: 16rem;
+    
+}
+.smallBtn{
+    height: 3rem;
+    width: 4rem;
+}
+.deleteBtn{
+   
+    position: relative;
+    left: 7rem;
+    height: 2rem
+;
+    width: 2rem
+;
+    bottom: 3.3rem
+;
+}
+.completedTask{
+    display: block;
+    height: 3rem;
+    position: sticky;
+    left: 41rem;
+    top:14rem;
+
+}
+
+
+
+.cancelTextBox{
+    height: 3rem;
+    width: 3rem;
+}
+
